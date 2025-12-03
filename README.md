@@ -35,7 +35,8 @@ Apply the migration files of the created app to the database
 Execute Django admin using localhost and create details for 10 entries
 
 ## PROGRAM
-```admin.py
+```
+admin.py
 
 from django.contrib import admin
 from .models import Employee,EmployeeAdmin
